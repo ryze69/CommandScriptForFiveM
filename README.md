@@ -1,0 +1,2 @@
+# CommandScriptForFiveM
+Script for FiveM
